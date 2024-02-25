@@ -46,6 +46,11 @@
                 width: 50%;
             }
 
+            #hazard_d {
+                display: flex;
+                flex-direction: column;
+            }
+
             @media (min-width: 320px) and (max-width: 480px) {
                 h3 {
                     padding: 30px;
@@ -401,10 +406,17 @@
                     <div
                         style="display: flex; margin-top: 100px"
                         class="column-m"
+                        id="hazard_d"
                     >
                         <div style="padding: 10px">
                             <h1>Field Diagram</h1>
-                            <div style="display: flex; flex-direction: column">
+                            <div
+                                style="
+                                    display: flex;
+                                    flex-direction: column;
+                                    flex: 1;
+                                "
+                            >
                                 <img
                                     src="https://media.discordapp.net/attachments/1208863697892544563/1208869847585390613/spaces2F-MHCAE012xNfg1h3SM9v2Fuploads2FxflzMGXnZ5sNrbqzasRy2FScreenshot202022-09-1320101327.png?ex=65e4dac7&is=65d265c7&hm=80f48300039bb7bb652ecb959980b621cba8c69eedfdb15498b30023fa141422&=&format=webp&quality=lossless&width=550&height=293"
                                     style="width: 100%"
