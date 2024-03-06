@@ -6,17 +6,17 @@ const sponsorsList = [
     },
     {
         image_url:
-            "https://res.cloudinary.com/dfcuj6dei/image/upload/v1709739929/Outreach/Sponsors/rizvielectronics.webp",
+            "https://res.cloudinary.com/dfcuj6dei/image/upload/v1709739929/Sponsors/Logos/rizvielectronics.webp",
         url: "http://rizvielectronics.com/",
     },
     {
         image_url:
-            "https://res.cloudinary.com/dfcuj6dei/image/upload/v1709739505/Outreach/Sponsors/junkshark.webp",
+            "https://res.cloudinary.com/dfcuj6dei/image/upload/v1709739505/Sponsors/Logos/junkshark.webp",
         url: "https://www.junkshark.ca/",
     },
     {
         image_url:
-            "https://res.cloudinary.com/dfcuj6dei/image/upload/v1709740312/Outreach/Sponsors/tdsb.webp",
+            "https://res.cloudinary.com/dfcuj6dei/image/upload/v1709740312/Sponsors/Logos/tdsb.webp",
         url: "https://www.tdsb.on.ca/",
     },
     {
@@ -26,7 +26,7 @@ const sponsorsList = [
     },
     {
         image_url:
-            "https://res.cloudinary.com/dfcuj6dei/image/upload/v1709740624/Outreach/Sponsors/studica.webp",
+            "https://res.cloudinary.com/dfcuj6dei/image/upload/v1709740624/Sponsors/Logos/studica.webp",
         url: "https://www.studica.ca/en/",
     },
     {
@@ -41,22 +41,22 @@ const sponsorsList = [
     },
     {
         image_url:
-            "https://res.cloudinary.com/dfcuj6dei/image/upload/v1709740857/Outreach/Sponsors/computertalk.webp",
+            "https://res.cloudinary.com/dfcuj6dei/image/upload/v1709740857/Sponsors/Logos/computertalk.webp",
         url: "https://www.computer-talk.com",
     },
     {
         image_url:
-            "https://res.cloudinary.com/dfcuj6dei/image/upload/v1709740958/Outreach/Sponsors/google.webp",
+            "https://res.cloudinary.com/dfcuj6dei/image/upload/v1709740958/Sponsors/Logos/google.webp",
         url: "",
     },
     {
         image_url:
-            "https://res.cloudinary.com/dfcuj6dei/image/upload/v1709741017/Outreach/Sponsors/markvilletoyota.webp",
+            "https://res.cloudinary.com/dfcuj6dei/image/upload/v1709741017/Sponsors/Logos/markvilletoyota.webp",
         url: "",
     },
     {
         image_url:
-            "https://res.cloudinary.com/dfcuj6dei/image/upload/v1709741082/Outreach/Sponsors/malfar.webp",
+            "https://res.cloudinary.com/dfcuj6dei/image/upload/v1709741082/Sponsors/Logos/malfar.webp",
         url: "https://www.malfar.ca/",
     },
     {
